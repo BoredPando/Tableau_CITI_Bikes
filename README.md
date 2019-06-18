@@ -7,6 +7,7 @@ How many trips have been recorded total during the chosen period?
 ![Total Trips](Total%20Trips.JPG)
 
 By what percentage has total ridership grown/ how has the proportion of short-term customers and annual subscribers changed?
+
 ![Growth](Ridership%20Growth.JPG)
 
 What are the peak hours in which bikes are used during summer months?
