@@ -10,10 +10,10 @@ By what percentage has total ridership grown/ how has the proportion of short-te
 ![Growth](Ridership%20Growth.JPG)
 
 What are the peak hours in which bikes are used during summer months?
-![Peak Summer](Peak Summer%20Hours.JPG)
+![Peak Summer](Peak%20Summer%20Hours.JPG)
 
 What are the peak hours in which bikes are used during winter months?
-![Peak Winter](Peak Winter%20Hours.JPG)
+![Peak Winter](Peak%20Winter%20Hours.JPG)
 
 Today, what are the top 10 stations in the city for starting a journey?
 ![Top Start](Top%20Starting%20Locations.JPG)
