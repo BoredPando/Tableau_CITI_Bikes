@@ -38,7 +38,7 @@ What is the average distance in miles that a bike is ridden?
 ![Avg Dist](Avg%20Distance%20per%20Bike.JPG)
 
 Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-![Inspections](Bikes%20Dues%20for%20Inspection.JPG)
+![Inspections](Bike%20Dues%20for%20Inspection.JPG)
 
 How variable is the utilization by bike ID?
 ![Utilization](Bike%20Utilization.JPG)
