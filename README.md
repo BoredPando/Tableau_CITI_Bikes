@@ -3,7 +3,8 @@
 ![Anomolies](Anomolies.JPG)
 
 How many trips have been recorded total during the chosen period?
-![Total Trips](Total Trips.JPG)
+
+![Total Trips](Total-Trips.JPG)
 
 By what percentage has total ridership grown/ how has the proportion of short-term customers and annual subscribers changed?
 (Ridership Growth.JPG)
