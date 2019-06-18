@@ -1,5 +1,5 @@
 # Tableau_CITI_Bikes
-How many trips have been recorded total during the chosen period?
+How many trips have been recorded total during the chosen period? 17.3M
 
 ![Total Trips](Total%20Trips.JPG)
 
@@ -37,6 +37,7 @@ How does the average trip duration change by age?
 ![Trip Duration](Duration%20by%20Age.JPG)
 
 What is the average distance in miles that a bike is ridden?
+
 ![Avg Dist](Avg%20Distance%20per%20Bike.JPG)
 
 Which bikes (by ID) are most likely due for repair or inspection in the timespan?
