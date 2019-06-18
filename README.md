@@ -32,6 +32,7 @@ Today, what is the gender breakdown of active participants/how effective has gen
 ![Gender](Gender%20Breakdown.JPG)
 
 How does the average trip duration change by age?
+
 ![Trip Duration](Duration%20by%20Age.JPG)
 
 What is the average distance in miles that a bike is ridden?
